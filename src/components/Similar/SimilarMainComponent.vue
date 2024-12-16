@@ -65,10 +65,7 @@ export default {
     display: flex;
     flex-direction: column;
     gap: 31px;
-
-    @media screen and (max-width: 700px) {
-        padding-inline: 16px;
-    }
+    padding-inline: 16px;
 
     .similar__title {
         text-transform: uppercase;
