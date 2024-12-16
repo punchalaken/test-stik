@@ -1,7 +1,7 @@
 <template>
     <header class="header">
         <a class="header__logo" href="#">
-            <img src="/images/logo.png" alt="Магазин STIK" />
+            <img src="images/logo.png" alt="Магазин STIK" />
         </a>
         <NavPonel />
     </header>

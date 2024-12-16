@@ -10,7 +10,7 @@
             </ul>
         </nav>
         <a class="header__logo" href="#">
-            <img src="/images/logo.png" alt="Магазин STIK" />
+            <img src="images/logo.png" alt="Магазин STIK" />
         </a>
     </header>
 </template>

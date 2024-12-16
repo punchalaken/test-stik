@@ -8,14 +8,14 @@
         <div class="main__photo-arrow-togle">
             <img
                 :class="{ disableBack: disableBack }"
-                src="images/svg/arrowLeft.svg"
+                src="images/SVG/arrowLeft.svg"
                 alt="Предыдущая картинка"
                 @click="toggleBack"
                 :disabled="disableBack"
             />
             <img
                 :class="{ disableForvard: disableForvard }"
-                src="images/svg/arrowRight.svg"
+                src="images/SVG/arrowRight.svg"
                 alt="Следующая картинка"
                 @click="toggleForward"
                 :disabled="disableForvard"
